@@ -3,3 +3,5 @@ Connect with your inner peace with LadyMind. Unwind in just 15 minutes a day and
 
 
 **WORK IN PROGRESS**
+
+[Bzzzz...](https://ladymind.netlify.app/)
